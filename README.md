@@ -1,6 +1,7 @@
 # ✈️ British Airways Review Dashboard
 
 ![Illustration](bar.png)
+https://public.tableau.com/app/profile/tien.vinh.le.gia/viz/BritishAirwaysReiview/Dashboard1
 
 This project visualizes customer reviews for British Airways flights using **Tableau**, focusing on key aspects such as overall ratings, aircraft types, destinations, and service categories. The dashboard is designed to provide actionable insights to enhance customer experience and support data-driven decisions in the aviation industry.
 
@@ -42,4 +43,4 @@ Feel free to fork, use, or contribute to this project!
 📬 **Contact**: [legiatienvinh@gmail.com]  
 🌐 **Portfolio**: https://www.datascienceportfol.io/legiatienvinh)
 
-https://public.tableau.com/app/profile/tien.vinh.le.gia/viz/BritishAirwaysReiview/Dashboard1
+
