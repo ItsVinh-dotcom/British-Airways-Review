@@ -7,8 +7,7 @@ This project visualizes customer reviews for British Airways flights using **Tab
 
 ## 🛠 Tools & Technologies
 
-- **Power BI**: For building interactive visualizations and reports
-- **Python / Pandas** *(optional)*: Used for initial data cleaning (if applicable)
+- **Tableau**: For building interactive visualizations and reports
 - **Excel / CSV**: Source data format
 
 ## 📈 Key Insights
